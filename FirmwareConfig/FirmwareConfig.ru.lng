@@ -422,8 +422,8 @@ RU:>Датчик внутренней температуры не может сосуществовать с выходом, счетчиком и
 EN:>The selected pin is used for %s
 RU:>Выбранный контакт используется для %s
 
-EN:>The switch mode has limited functionality.
-RU:>Режим переключателя имеет ограничения.
+EN:>You can have only one switch on a port (P0x, P1x, or P2x). For example, P01, P17, or P20.
+RU:>Вы можете иметь только один переключатель на порту (P0x, P1x, или P2x). Например, P01, P17, или P20.
 
 EN:>The very long click (10000 ms) also resets the device. The device will re-join to a coordinator.
 RU:>Очень долгий клик (10000 мс) также приводит к сбросу устройство. Оно будет переподключаться к координатору.
@@ -550,4 +550,19 @@ RU:>Отключить периодические отчеты
 
 EN:>Debounce interval
 RU:>Защита от требезга
+
+EN:>Set default reporting interval (s)
+RU:>Установить интервал отправки отчетов (с)
+
+EN:>Direct LED connection|External N-type driver|External P-type driver
+RU:>Прямое подключение LED|Внешний драйвер N-типа|Внешний драйвер P-типа
+
+EN:>virtual
+RU:>виртуальный
+
+EN:>Disable resetting of a device by a power on/off cycle
+RU:>Отключить сброс устройства через процедуру включения/выключения
+
+EN:>Uptime
+RU:>Время работы
 

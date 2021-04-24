@@ -1,3 +1,5 @@
+2ch relay, 1 channel current, 220V
+
 This firmware allows you to create a device with a flexible configuration of inputs and outputs.
 
 The device with this firmware also works as a router.

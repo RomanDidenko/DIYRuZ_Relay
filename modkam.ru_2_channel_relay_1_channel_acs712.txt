@@ -2,11 +2,12 @@ Board type: CC2530 + CC2592
 Device type: Router
  Transmit enable (TXEN): P12Receive enable (RXEN): P14
 Model ID: 2ch.1current
+Update firmware's timestamp : 2021-04-24
 Status LED: P15, Joining or errors
 Set default reporting interval (s): 60
 
 Output pins:
-P00: Output 1, ACS712,ACS758 (current) (Type: ACS712: 20 A (+/-), Frequency (Hz): 50, Voltage (V): 230, Monitor output: 2)
+P00: Output 1, ACS712,ACS758 (current) (Type: ACS712: 20 A (+/-), Frequency (Hz): 50, Voltage (V): 220, Monitor output: 2)
 P12: Output 2, Bistable relay On, Pull-up (Impulse (ms): 100, Restore after power off: Last), Remember state
 P14: Output 3, Bistable relay Off, Pull-up (Impulse (ms): 100)
 P16: Output 5, Bistable relay On, Pull-up (Impulse (ms): 100, Restore after power off: Last), Remember state
